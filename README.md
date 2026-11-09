@@ -17,7 +17,6 @@
   - Realistic and terrifying Godzilla scenes
   - Won the Academy Award for Best Visual Effects
 - Emotional characters and music
-- *(Add your own reasons here)*
 
 ## Quick Facts
 
