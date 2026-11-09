@@ -5,9 +5,6 @@
 ## About the Movie
 **Godzilla Minus One** is a Japanese *kaiju* film released in **2023**. It was written and directed by **Takashi Yamazaki** and produced by **Toho**. The story is set in **post-war Japan** and follows a survivor who must face Godzilla while rebuilding his life.
 
-> "Add your favorite line or scene description here."
-
----
 
 ## Main Characters
 1. **Koichi Shikishima** – a former kamikaze pilot haunted by his past
